@@ -1,0 +1,21 @@
+.cornavegacao{
+	background-color: #4e996a;
+}
+.planodefundo{
+	background-color: #c0ed82;
+	margin-top: 100px;
+}
+.justificartexto{
+	text-align: justify;
+	font-family: 'Rokkitt', serif;
+}
+.centralizartexto{
+	text-align: center;
+		font-family: 'Lobster', cursive;
+
+}
+
+a#titulo{
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
